@@ -1,2 +1,1 @@
-</br>
-<a href="https://erobinofficial.github.io/kanye-quote/">Live Quotes</a>
+<button style="padding: 8px; background-color: rgb(35, 158, 72); border: none; border-radius: 5px;"><a style="text-decoration: none; color: white;" href="https://erobinofficial.github.io/kanye-quote/">Live Quotes</a></button>
